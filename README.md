@@ -1,7 +1,6 @@
 # heuristic-design-for-PAC-MAN
 
 A C++ program that calculates the heuristic value for a given PAC-Man state
-***
 
 * The environment is grid of 7x7
 * The PACMAN is in random location
