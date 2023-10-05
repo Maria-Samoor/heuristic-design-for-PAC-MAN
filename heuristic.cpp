@@ -1,5 +1,3 @@
-//Maria Abu Samoor (23711) && Reem Ihdeib(201066)
-
 #include <iostream>
 #include <ctime>
 #include <random>
